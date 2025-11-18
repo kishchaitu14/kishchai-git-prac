@@ -3,4 +3,7 @@ thi is adding data
 for the kish file 
 to check push from git 
 last line 
-
+adding lines in git hub for pushing 
+adding second line 
+3rd line 
+final last line 
