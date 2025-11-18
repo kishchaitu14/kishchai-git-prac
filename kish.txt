@@ -1,0 +1,6 @@
+hi 
+thi is adding data 
+for the kish file 
+to check push from git 
+last line 
+
